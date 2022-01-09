@@ -1,5 +1,6 @@
 ## Python Flask Server Template
 ------
+Check the [Github Repository](https://github.com/Ravost99/Flask-Server-Template/) for updates
 
 Flask is an application builder. It is very common in [Python](https://python.org) but can also be used in [Nodejs](https://nodejs.org)
 
